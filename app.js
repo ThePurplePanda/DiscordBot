@@ -45,7 +45,7 @@ global.MOD_LEVEL = 1;
 //Admin IDs
 global.userList = {};
 global.specialChannels = {};
-global.GAME_ROLES = [`Smash Ultimate`,`Rhythm`, `Speedrunning`,`Starcraft`, `Destiny`, `WoW`, `Rocket League`, `Hearthstone`, `Smash Ultimate`, `Smash4`, `Melee`, `Smash`,`Overwatch`, `CS:GO`, `Smite`, `Fire Emblem`, `Paladins`, `Pokemon`, `Runescape`, `Tabletop`, `PUBG`, `Rainbow Six Siege`, `DotA`, `HOTS`, `League of Legends`, `Fortnite`, `PS4`, `XBOX`, `Switch`, `Yu-Gi-Oh`, `Magic the Gathering`];
+global.GAME_ROLES = [`Starcraft`, `Destiny`, `WoW`, `Rocket League`, `Hearthstone`, `Smash`, `Smash Ultimate`, `Smash4`, `Melee`, `Minecraft`, `Apex`, `Overwatch`, `CS:GO`, `Smite`, `Paladins`, `Fire Emblem`, `Pokemon`, `Runescape`, `Tabletop`, `Rainbow Six Siege`, `DotA`, `HOTS`, `League of Legends`, `Fortnite`, `Rhythm`, `Speedrunning`, `Autochess`, `PS4`, `XBOX`, `Switch`, `Yu-Gi-Oh`, `Magic the Gathering`];
 global.MEMBER_COMMANDS = require('./commands/member.js')
 global.ADMIN_COMMANDS = require('./commands/admin.js');
 global.MOD_COMMANDS = require('./commands/mod.js');
